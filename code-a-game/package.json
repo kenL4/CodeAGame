@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@codemirror/lang-javascript": "^6.2.3",
+    "@codemirror/lang-markdown": "^6.3.2",
+    "@codemirror/lang-python": "^6.2.0",
     "@lexical/react": "^0.31.1",
     "@pixi/react": "^8.0.1",
+    "@uiw/codemirror-theme-console": "^4.23.12",
+    "@uiw/react-codemirror": "^4.23.12",
     "lexical": "^0.31.1",
     "pixi.js": "^8.9.2",
     "react": "^19.1.0",
